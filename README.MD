@@ -2,6 +2,11 @@
 
 This project uses the NetworkX library to analyze a dataset of Marvel comic book characters and their appearances. The dataset includes information on comic book issues and the characters that appear in them.
 
+## Getting Started
+
+1. Clone the repository to your local machine: `git clone https://github.com/FabioCarosi/NetworkX_MarvelComics.git`
+2. Run the file `marvel-network.ipynb`
+
 ## Analysis
 
 The script will create a graph using NetworkX, with characters as nodes and comic book appearances as edges. The script will then perform various analysis on the graph, including:
